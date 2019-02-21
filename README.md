@@ -2,7 +2,7 @@
 yumrepo provider to implement the target parameter missing from puppetlabs resource yumrepo  
 waiting too long that puppet implements this feature for years. 
 
-works with puppet 6 and also with yumrepo_core module from the forge (puppet 4/5)
+works with puppet 6 and also with yumrepo_core module from the forge (puppet 4/5)  
 put the module in a puppet environment then you can use the target parameter of yumrepo resource to put multiple repos in single repo file
 
 ```puppet
