@@ -1,5 +1,5 @@
 # yumrepo_target
-yumrepo provider to implement the target parameter missing from puppetlabs resource yumrepo  
+yumrepo provider `yum_target` to implement the target parameter missing from puppetlabs resource yumrepo  
 waiting too long that puppet implements this feature for years. 
 
 works with puppet 6 and also with yumrepo_core module from the forge (puppet 4/5)  
